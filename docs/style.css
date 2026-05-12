@@ -7,3 +7,9 @@ h1, h2, p {
 h1 {
     font-weight: bold;
 }
+
+button {
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 40px;    
+}
